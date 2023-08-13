@@ -25,9 +25,9 @@ The [BrickMMO Radio V1](https://brickmmo.github.io/radio-about/) has three repos
 
 Other systems have [About Sites](https://github.com/BrickMMO/template-about-markdown):
 
-- Flow - [flow-about](https://brickmmo.github.io/flow-about/)
-- BickMMO Radio - [radio-about](https://brickmmo.github.io/radio-about/)
-- GPS - [gps-about](https://brickmmo.github.io/gps-about/)
+- [Flow](https://brickmmo.github.io/flow-about/)
+- [BickMMO Radio](https://brickmmo.github.io/radio-about/)
+- [GPS](https://brickmmo.github.io/gps-about/)
 
 ### Documentation
 
