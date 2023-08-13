@@ -74,7 +74,7 @@ To complete this task, follow these steps:
 
    You will need to fork the repo, add your changes, and submit a pull request.
 
-8. Add your other system ideas to the [Ideas Page](ideas).
+8. Adjust the [Ideas Page](ideas). Add your unused ideas to the Undocumented section. Add your chosen idea to the documented section.
 
 > There are additional instrucitons available  
 > [https://docs.google.com/presentation/d/1Rq66r29iYRz-L_WGnZMtDgs98yHZ5PtIB3mdHTTChIg](https://docs.google.com/presentation/d/1Rq66r29iYRz-L_WGnZMtDgs98yHZ5PtIB3mdHTTChIg)

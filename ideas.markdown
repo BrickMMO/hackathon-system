@@ -11,6 +11,12 @@ Here is a list of ideas other faculty and students have come up with, but have n
 
 ## Documented Ideas
 
+### PDFs
+
+- [Power Grid](results/Power Grid.pdf)
+
+### Markdown
+
 - [Power Grid](power-grid)
 
 ## Ideas in Development
