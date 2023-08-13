@@ -17,7 +17,7 @@ You will not be building and coding the systems. This is only a brainstorming se
 
 ## Examples
 
-The [BrickMMO Radio V1](https://brickmmo.github.io/radio-about/) has bee developed. It has three repos:
+The [BrickMMO Radio V1](https://brickmmo.github.io/radio-about/) has been developed. It has three repos:
 
 - [radio-frontend-v1](https://github.com/BrickMMO/radio-frontend-v1)
 - [radio-reporters-v1](https://github.com/BrickMMO/radio-reporters-v1)
@@ -58,23 +58,24 @@ To complete this task, follow these steps:
    - What parts of your system can be controlled by an admin panel?
    - What does the front end of your system look like?
 
-4. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
+4. Bainstorm what assets your system will require (frontend, control panel, API).
+5. Brainstorm which sensors, motors, and lights will be required to integrate the concept.
 
    > Checkout a list of available sensors and motors  
    > [https://brickmmo.github.io/media/sensors-motors](https://brickmmo.github.io/media/sensors-motors)
 
-5. Write bloack of [pseudocode](https://pseudocode.codeadam.ca) for your system.
+6. Write bloack of [pseudocode](https://pseudocode.codeadam.ca) for your system.
 
-6. Document this system using the Google Docs template.
+7. Document this system using the Google Docs template.
 
    > You can download a copy of this tempate  
    > [https://docs.google.com/presentation/d/1huKFnm_8q7gQQFv6ynBVG4fm38fjTWHPU_v_qM_AWXI/](https://docs.google.com/presentation/d/1huKFnm_8q7gQQFv6ynBVG4fm38fjTWHPU_v_qM_AWXI/)
 
-7. Add your document to the [hackathon-system](https://github.com/BrickMMO/hackathon-system/) repo. You can add your PDF document to the `results` folder.
+8. Add your document to the [hackathon-system](https://github.com/BrickMMO/hackathon-system/) repo. You can add your PDF document to the `results` folder.
 
    You will need to fork the repo, add your changes, and submit a pull request.
 
-8. Adjust the [Ideas Page](ideas). Add your unused ideas to the Undocumented section. Add your chosen idea to the documented section.
+9. Adjust the [Ideas Page](ideas). Add your unused ideas to the Undocumented section. Add your chosen idea to the documented section with a link to your PDF.
 
 > There are additional instrucitons available  
 > [https://docs.google.com/presentation/d/1Rq66r29iYRz-L_WGnZMtDgs98yHZ5PtIB3mdHTTChIg](https://docs.google.com/presentation/d/1Rq66r29iYRz-L_WGnZMtDgs98yHZ5PtIB3mdHTTChIg)
