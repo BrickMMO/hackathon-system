@@ -43,7 +43,7 @@ Some other possible ideas include:
 - Streetview
 - Twitter
 
-There are more undocumented ideas on the [Idea Page](ideas).
+There are more undocumented ideas on the [Ideas Page](ideas).
 
 ## Steps
 

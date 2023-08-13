@@ -11,6 +11,8 @@ Here is a list of ideas other faculty and students have come up with, but have n
 
 ## Documented Ideas
 
+Each idea is initially scoped using a PDF and then converted to Markdown:
+
 ### PDFs
 
 - [Power Grid](results/Power Grid.pdf)
