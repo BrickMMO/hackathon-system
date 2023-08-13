@@ -13,17 +13,17 @@ Each system will have:
 - A set of repos to store different parts of the applications.
 - Each system will also have an [About Site](https://github.com/BrickMMO/template-about-markdown) used to document the systems purpose, contributors, and progress.
 
-You will not be building and coding the systems. This is only a brainstorming session. Your concept may be completed by another group of students in the future.
+You will not be building and coding the systems. This is only a brainstorming session. You will only be documenting your concept. The result of this hackathon is a PDF that will be used as a reference by another group of students in the future.
 
 ## Examples
 
-The [BrickMMO Radio V1](https://brickmmo.github.io/radio-about/) has three repos:
+The [BrickMMO Radio V1](https://brickmmo.github.io/radio-about/) has bee developed. It has three repos:
 
 - [radio-frontend-v1](https://github.com/BrickMMO/radio-frontend-v1)
 - [radio-reporters-v1](https://github.com/BrickMMO/radio-reporters-v1)
 - [radio-producers-v1](https://github.com/BrickMMO/radio-producers-v1)
 
-Other systems have [About Sites](https://github.com/BrickMMO/template-about-markdown):
+All developed systems have an [About Site](https://github.com/BrickMMO/template-about-markdown):
 
 - [Flow](https://brickmmo.github.io/flow-about/)
 - [BickMMO Radio](https://brickmmo.github.io/radio-about/)
