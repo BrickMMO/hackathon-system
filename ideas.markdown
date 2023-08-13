@@ -8,6 +8,10 @@ Here is a list of ideas other faculty and students have come up with, but have n
 - Escape Room Game
 - Lifting Bridgge
 - Autonomous Driving Cars
+- Charging Stations
+- Logistics (a shipping loop)
+- Social Scoring
+- Bloackchain
 
 ## Documented Ideas
 
