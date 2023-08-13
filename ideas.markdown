@@ -29,7 +29,7 @@ Each idea is initially scoped using a PDF and then converted to Markdown:
 - [Colours](https://brickmmo.github.io/colours-about/)
 - [Pixelatte](https://brickmmo.github.io/pixelatte-about/)
 
-[&#10132; Back to Hackathon](/)
+[&#10132; Back to Hackathon](/hackathon-set/)
 
 ---
 
