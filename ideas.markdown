@@ -20,6 +20,7 @@ Each idea is initially scoped using a PDF and then converted to Markdown:
 ### PDFs
 
 - [Power Grid](results/Power Grid.pdf)
+- [Charging station](results/Charging Station - Group 4.pdf)
 
 ### Markdown
 
