@@ -1,8 +1,8 @@
 ## Lighting
 
-![Lighting](images/lighting.webp)
+![Lighting](images/lighting.png)
 
-> <small>LEGO (n.d.). LEGO Light. Retrieved Feb 10th, 2024, from [https://www.lego.com/en-ca/product/light-88005](https://www.lego.com/en-ca/product/light-88005)</small>
+> <small>LEGO (n.d.). LEGO Motorized Lighthouse. Retrieved Feb 10th, 2024, from [https://www.lego.com/en-ca/product/motorised-lighthouse-21335](https://www.lego.com/en-ca/product/motorised-lighthouse-21335)</small>
 
 ### Description
 
