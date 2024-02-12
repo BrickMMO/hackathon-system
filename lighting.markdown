@@ -1,6 +1,6 @@
 ## Lighting
 
-![Lighting](images/lighting.png)
+![Lighting](images/lighting.webp)
 
 > <small>LEGO (n.d.). LEGO Light. Retrieved Feb 10th, 2024, from [https://www.lego.com/en-ca/product/light-88005](https://www.lego.com/en-ca/product/light-88005)</small>
 
