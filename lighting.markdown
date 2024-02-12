@@ -13,6 +13,7 @@ This system will provide lighting...
 This interaction will only require a EV3 hubs, lights, and extensions:
 
 <img src="/media/ev3/brick.jpg" height="200">
+<img src="/media/power-functions/lights.jpeg" height="200">
 
 ## Pseudocode
 
