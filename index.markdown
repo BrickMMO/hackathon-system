@@ -34,6 +34,7 @@ All developed systems have an [About Site](https://github.com/BrickMMO/template-
 Each year we convert past hackathon PDFs to Markdown in the hopes that they will be programmed into the BrickMMO Smart City:
 
 - [Lighting](lighting)
+- [Autonomous Car Core](autonomous-driving-cars)
 
 ### Undocument Ideas
 
